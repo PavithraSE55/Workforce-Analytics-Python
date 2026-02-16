@@ -1,3 +1,4 @@
+[Pavithra_Python_capstone.ipynb](https://github.com/user-attachments/files/25339171/Pavithra_Python_capstone.ipynb)
 # Automated Workforce Analytics (Python)
 **Situation:** Lack of automated links between project outcomes and employee compensation.
 **Task:** Build a relational data system to automate seniority updates and bonus logic.
